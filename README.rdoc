@@ -6,7 +6,7 @@ This fork was created solely to release an up-to-date version of ruby-opencv on 
 
 or added in a Gemfile with
 
-  gem 'afeld-opencv', '~> 0.8'
+  gem 'afeld-opencv', '~> 0.0.8'
 
 ---------------
 
