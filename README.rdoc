@@ -1,3 +1,15 @@
+= Note
+
+This fork was created solely to release an up-to-date version of ruby-opencv on rubygems.  It can be installed as a gem via
+
+  $ gem install afeld-opencv
+
+or added in a Gemfile with
+
+  gem 'afeld-opencv', '~> 0.6'
+
+---------------
+
 = OpenCV
 
 The initial Open Computer Vision library was originally developed by Intel 

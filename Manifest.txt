@@ -126,7 +126,7 @@ images/CvMat_sobel.png
 images/CvMat_sub_rect.png
 images/CvSeq_relationmap.png
 images/face_detect_from_lena.jpg
-opencv.gemspec
+afeld-opencv.gemspec
 test/helper.rb
 test/runner.rb
 test/samples/airplane.jpg
